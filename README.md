@@ -2,6 +2,7 @@
 A python program for archiving versions of Deltarune from itch.io
 
 Instructions:
+
 -If you do not already have one, create an itch.io account
 -Generate an Itch.io API key from this link https://itch.io/user/settings/api-keys
 -Copy your generated API key into key.txt
