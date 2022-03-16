@@ -8,7 +8,7 @@ Instructions:
 
 Running from source
 
--If not already installed, then please install Python3
+-If not already installed, then please install [Python3](https://www.python.org/downloads/)
 
 -Open up your terminal, navigate to the directory where main.py is stored, and run the command "python main.py"
 
